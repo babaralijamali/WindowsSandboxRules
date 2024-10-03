@@ -1,0 +1,9 @@
+<Configuration>
+  <Networking>Disable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>L:\</HostFolder>  <!-- Change D:\ to the correct USB drive path -->
+      <ReadOnly>false</ReadOnly>   <!-- Set to true if you only want read access -->
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>
